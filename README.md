@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Social science researcher focused on design research and community-centered methodologies.
+I am a social science researcher focused on design research and community-centered methodologies.
 
 ### 🛠️ Technical Skills
 R, SQL, SPSS, REDCap, QGIS, Qualtrics
