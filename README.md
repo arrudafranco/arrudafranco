@@ -35,7 +35,7 @@ I'm a social researcher transitioning into design research and innovation strate
 ### 📫 Connect
 - Portfolio: [arrudafranco.com](https://arrudafranco.com)
 - Email: gustavoarrudaf@gmail.com
-- LinkedIn: [linkedin.com/in/gustavoarrudafranco](https://www.linkedin.com/in/gustavo-arruda-franco/)
+- LinkedIn: [linkedin.com/in/gustavo-arruda-franco](https://www.linkedin.com/in/gustavo-arruda-franco/)
 
 <!--
 **arrudafranco/arrudafranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
