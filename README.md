@@ -1,9 +1,11 @@
 ## Hi there 👋
 
-I am a social science researcher focused on design research and community-centered methodologies.
+I'm a mixed-methods researcher bridging social science, design research, and computational methods — currently at NORC at the University of Chicago.
+
+Recently, I've been exploring generative agent simulations, feasibility modeling for AI-augmented research panels, and interactive tooling for research design using Claude Code and Codex. I also build things for fun, including a turn-based political sim.
 
 ### 🛠️ Technical Skills
-R, SQL, SPSS, REDCap, QGIS, Qualtrics
+R, Python, UX/UI, SQL, SPSS, REDCap, QGIS, Qualtrics
 
 ### 📂 About My Repositories
 *Note: The gap in my commit history from 2022-2025 reflects work on proprietary research projects where code cannot be publicly shared due to confidentiality agreements.*
