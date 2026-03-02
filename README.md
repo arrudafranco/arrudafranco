@@ -2,7 +2,7 @@
 
 I'm a mixed-methods researcher bridging social science, design research, and computational methods — currently at NORC at the University of Chicago.
 
-Recently I've been exploring generative agent simulations, feasibility modeling for AI-augmented research panels, and interactive tooling for research design using Claude Code and Codex. I also build things for fun, including a turn-based political sim.
+Recently I've been exploring interactive tooling for research design using Claude Code and Codex. I also build things for fun, including a turn-based political sim.
 
 ### 🛠️ Technical Skills
 R, Python, UX/UI, SQL, SPSS, REDCap, QGIS, Qualtrics
